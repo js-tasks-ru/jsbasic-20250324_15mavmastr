@@ -10,7 +10,9 @@ function highlight(table) {
       } else {
         row.classList.add('unavailable');
       }
-    } else {row.hidden = true;}
+    } else {
+      row.hidden = true;
+    }
 
     if (genderCell.textContent === 'm') {
       row.classList.add('male');
