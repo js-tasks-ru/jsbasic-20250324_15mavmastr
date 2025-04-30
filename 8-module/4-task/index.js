@@ -1,3 +1,4 @@
+/* eslint-disable indent */
 import createElement from '../../assets/lib/create-element.js';
 import escapeHtml from '../../assets/lib/escape-html.js';
 
